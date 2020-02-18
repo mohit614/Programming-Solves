@@ -1,3 +1,4 @@
+# number of permutations of a string with repeatiton allowed
 from itertools import combinations_with_replacement
 from hashlib import md5
 import string
